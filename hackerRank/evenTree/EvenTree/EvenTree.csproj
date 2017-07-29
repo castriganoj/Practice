@@ -47,11 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Problem Statement\even-tree-English.pdf" />
+    <None Include="Problem Statement\even-tree-English %281%29.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Test Caases\input00.txt" />
     <Content Include="Test Caases\input01.txt" />
+    <Content Include="Test Caases\sample.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -7,3 +7,9 @@ c:\users\jcastrigano\documents\visual studio 2017\Projects\EvenTree\EvenTree\obj
 C:\Users\jcastrigano\Desktop\REPOS\New folder\HackerRank\EvenTree\EvenTree\bin\Debug\EvenTree.exe.config
 C:\Users\jcastrigano\Desktop\REPOS\New folder\HackerRank\EvenTree\EvenTree\obj\Debug\EvenTree.exe
 C:\Users\jcastrigano\Desktop\REPOS\New folder\HackerRank\EvenTree\EvenTree\obj\Debug\EvenTree.pdb
+C:\Users\jcastrigano\Desktop\REPOS\Practice\hackerRank\evenTree\EvenTree\bin\Debug\EvenTree.exe.config
+C:\Users\jcastrigano\Desktop\REPOS\Practice\hackerRank\evenTree\EvenTree\bin\Debug\EvenTree.exe
+C:\Users\jcastrigano\Desktop\REPOS\Practice\hackerRank\evenTree\EvenTree\bin\Debug\EvenTree.pdb
+C:\Users\jcastrigano\Desktop\REPOS\Practice\hackerRank\evenTree\EvenTree\obj\Debug\EvenTree.csprojResolveAssemblyReference.cache
+C:\Users\jcastrigano\Desktop\REPOS\Practice\hackerRank\evenTree\EvenTree\obj\Debug\EvenTree.exe
+C:\Users\jcastrigano\Desktop\REPOS\Practice\hackerRank\evenTree\EvenTree\obj\Debug\EvenTree.pdb
